@@ -1,2 +1,2 @@
-# Galaxy-morphological-classification
+# SDSS_DR16
 Summer training project
